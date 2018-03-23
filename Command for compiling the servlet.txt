@@ -1,0 +1,8 @@
+page 116 of book pdf
+
+
+cd beerV1
+
+
+javac -classpath /usr/lib/apache-tomcat-9.0.6/lib/servlet-api.ja
+r:classes:. -d classes src/com/example/web/BeerSelect.java
